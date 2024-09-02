@@ -11,6 +11,7 @@ Gosto de lugares com uma vista bonita, como um parque ou um mirante.
 
 Complemento
 
+```
 Requisitos
 Opções Vegetarianas: O local deve oferecer opções vegetarianas para acomodar você e seus amigos.
 Ambiente Tranquilo: O local não deve ser muito cheio para manter um ambiente mais calmo.
@@ -21,3 +22,4 @@ Design
 Música dos Anos 80, Temas de Séries e Jogos: A música ambiente pode incluir temas dos anos 80, trilhas sonoras de séries como Game of Thrones, Breaking Bad, e temas de jogos como Counter Strike.
 Decoração Rústica: O design do espaço deve incluir elementos rústicos, como madeira e plantas, para criar uma atmosfera aconchegante.
 Iluminação Baixa: A iluminação do local deve ser mais suave e menos intensa para criar um ambiente acolhedor e relaxante.
+```
